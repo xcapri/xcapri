@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Pondev</h1>
-<h3 align="center">Junior Web Developer, Hobby bug hunting</h3>
 
 
 
@@ -15,3 +14,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xcapri&show_icons=true&theme=locale)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xcapri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<h3 align="left">Free 100$ Digital Ocean Credit:</h3>
+
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=86f47d286443&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
