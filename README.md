@@ -15,6 +15,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xcapri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">Free 100$ Digital Ocean Credit:</h3>
+<h3 align="left">Free 200$ Digital Ocean Credit for 60 days:</h3>
 
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=86f47d286443&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
