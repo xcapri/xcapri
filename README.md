@@ -18,3 +18,8 @@
 <h3 align="left">Free 200$ Digital Ocean Credit for 60 days:</h3>
 
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=86f47d286443&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
+<h3 align="left">Unlimeted Hosting:</h3>
+
+[![Unlimeted Hosting](https://dt2sdf0db8zob.cloudfront.net/wp-content/uploads/2018/08/niagahoster-logo-alt.webp)](https://niagahoster.co.id?REFERRALCODE=1HXXXXXIM79)
+
